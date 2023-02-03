@@ -1,4 +1,6 @@
-# Lab 2
+# ECSE3038 Lab 2
+
+This Lab tested our ability to make HTTP Requests via an API platform. 
 
 ## Aim
 
