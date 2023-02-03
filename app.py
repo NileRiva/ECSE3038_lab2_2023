@@ -33,7 +33,7 @@ async def delete_todo_by_id(id:int):
       if todo["id"]==id:
         print("Retrieved")
         fake_database.remove(todo)
-        return {"message":"Item Deleted"}
+        return {"message":"Item Deleted"} #200 OK is Default
     raise HTTPException(status_code=404, detail="TO-DO Item not found")
 
 @app.patch("/todos/{id}")
@@ -43,5 +43,5 @@ async def update_todo_by_id(id: int,request:Request):
     for todo in fake_database:
         if todo["id"]==id:
             todo.update(todoupdate)
-            return todo
+            return todo #200 OK is Default
     raise HTTPException(status_code=404, detail="TO-DO Item not found")
