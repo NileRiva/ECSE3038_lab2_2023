@@ -87,7 +87,7 @@ Each commit should be accompanied by a short and meaningful commit message that 
 # Torchic
 ![Alt text](https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png "Torchic")
 
-orchic (Japanese: アチャモ Achamo) is a Fire-type Pokémon introduced in Generation III.
+Torchic (Japanese: アチャモ Achamo) is a Fire-type Pokémon introduced in Generation III.
 
 It evolves into Combusken starting at level 16, which evolves into Blaziken starting at level 36.
 
