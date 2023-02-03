@@ -39,8 +39,7 @@ async def delete_todo_by_id(id:int):
 @app.patch("/todos/{id}")
 async def update_todo_by_id(id: int,request:Request):
     todoupdate = await request.json()
-        #if todoupdate["id"]!=Null:
-    i=0
+    
     for todo in fake_database:
         if todo["id"]==id:
             todo.update(todoupdate)
