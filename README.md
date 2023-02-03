@@ -85,7 +85,7 @@ Each commit should be accompanied by a short and meaningful commit message that 
 ## My Favourite Pokémon
 
 # Torchic
-![Alt text](https://bulbapedia.bulbagarden.net/wiki/File:0255Torchic.png "Torchic")
+![Alt text](https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png "Torchic")
 
 orchic (Japanese: アチャモ Achamo) is a Fire-type Pokémon introduced in Generation III.
 
