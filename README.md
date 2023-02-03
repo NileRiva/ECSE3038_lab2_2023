@@ -92,3 +92,5 @@ Torchic (Japanese: アチャモ Achamo) is a Fire-type Pokémon introduced in Ge
 It evolves into Combusken starting at level 16, which evolves into Blaziken starting at level 36.
 
 Along with Treecko and Mudkip, Torchic is one of three starter Pokémon of Hoenn available at the beginning of Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire.
+
+### Fun Fact: I have no idea what sound a Torchic makes as stated by irpl a few classes ago  
