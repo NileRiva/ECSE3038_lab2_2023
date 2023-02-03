@@ -81,3 +81,14 @@ A file called `requirements.txt` must also be included in your repository. This 
 There is no maximum number of commits that can be made the repo. There should, however, be at least 2 commits since each function after the first should be implemented and commit one at a time. 
 
 Each commit should be accompanied by a short and meaningful commit message that outlines what changes were made.
+
+## My Favourite Pokémon
+
+# Torchic
+![Alt text](https://bulbapedia.bulbagarden.net/wiki/File:0255Torchic.png "Torchic")
+
+orchic (Japanese: アチャモ Achamo) is a Fire-type Pokémon introduced in Generation III.
+
+It evolves into Combusken starting at level 16, which evolves into Blaziken starting at level 36.
+
+Along with Treecko and Mudkip, Torchic is one of three starter Pokémon of Hoenn available at the beginning of Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire.
